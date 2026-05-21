@@ -1,8 +1,7 @@
-# ClinicalTrials.gov Study Fetcher for GitLab CI with Hereby
-
+# ClinicalTrials.gov Study Fetcher 
 A small R script that queries the **ClinicalTrials.gov API v2**, paginates through all available results for a condition, and returns a tidy table of study metadata.
 
-This project is suitable for running with **Hereby** in a GitLab repository to automate data pulls and optionally export results to CSV.
+This project helps to automate data pulls and optionally export results to CSV.
 
 ## Features
 
